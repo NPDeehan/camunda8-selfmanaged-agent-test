@@ -2,6 +2,8 @@
 
 A test project to verify your Camunda 8 self-managed environment is properly configured to run agentic AI processes using the AI Agent Connector.
 
+![](./img/playRun.png) 
+
 ## Overview
 
 This project provides a simple agentic process that demonstrates document parsing capabilities using AI. It's designed to help you verify that you have all the necessary components, connectors, and configurations in place to run AI-powered workflows in your Camunda 8 self-managed environment.
@@ -108,6 +110,8 @@ A sample PDF document is included in the `testDocs/` folder:
 - `Fusion_Technologies_Quarterly_Statement_Branded_v2.pdf` - A quarterly statement you can use to test document parsing
 
 ## Configuration Details
+
+![](./img/display.png)
 
 ### Agent Configuration
 
