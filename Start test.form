@@ -1,0 +1,55 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.8.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "599897b"
+  },
+  "schemaVersion": 19,
+  "id": "start-test-1sjaz91",
+  "components": [
+    {
+      "text": "# Lets Run a wee Test!",
+      "type": "text",
+      "layout": {
+        "row": "Row_1qk280j",
+        "columns": null
+      },
+      "id": "Field_1fowmhy"
+    },
+    {
+      "label": "User Instructions",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_083r9bh",
+        "columns": null
+      },
+      "id": "Field_00us1xs",
+      "key": "userInstructions",
+      "defaultValue": "Find all the names in the document"
+    },
+    {
+      "label": "Upload The Document",
+      "type": "filepicker",
+      "layout": {
+        "row": "Row_18t373r",
+        "columns": null
+      },
+      "id": "Field_1l7707i",
+      "key": "document"
+    },
+    {
+      "label": "What LLM?",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0u4zqru",
+        "columns": null
+      },
+      "id": "Field_1xg5b5s",
+      "key": "llm",
+      "defaultValue": "gpt-5.4",
+      "description": "gpt-5.4 or gpt-4o"
+    }
+  ],
+  "type": "default"
+}
