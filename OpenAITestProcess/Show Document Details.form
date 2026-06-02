@@ -1,0 +1,22 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.8.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "599897b"
+  },
+  "schemaVersion": 19,
+  "id": "show-document-details-00cgulp",
+  "components": [
+    {
+      "text": "=answerToQuestion",
+      "type": "text",
+      "layout": {
+        "row": "Row_1atmuet",
+        "columns": null
+      },
+      "id": "Field_07uki6a"
+    }
+  ],
+  "type": "default"
+}
